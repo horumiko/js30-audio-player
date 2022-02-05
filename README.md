@@ -10,6 +10,6 @@
 
 [Описание и требования задания](js30.md)
 
-<kbd>![](images/js30-2.jpg)</kbd>
+![image](https://user-images.githubusercontent.com/79800115/152636915-81bee8f9-748d-4c67-b50f-6d4d920111c4.png)
 
 [Демо](https://audio-player-js30.netlify.app/)  
